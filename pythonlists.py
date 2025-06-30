@@ -1,0 +1,31 @@
+numbers = [10,0,-1,7,9,4]
+names = ["navin","nidhi","nitin","nisha"]
+mix_list = [True,10.22,5,'navin',33]
+#print(numbers)
+#print(len(numbers))
+#print(numbers [-1]) 
+#print(numbers [-2])
+#print(numbers[0:])     
+#print(numbers[0:3])
+#print(numbers[1:3])
+print(numbers[0:3:2])
+print(numbers[0:5:2])
+#numbers.sort()
+#numbers.reverse()
+#print(min(numbers))
+#print(max(numbers))
+#print(numbers)
+#numbers.append(46)
+#print(numbers)
+#numbers.insert(2,34)
+#print(numbers)
+#numbers.extend([45,46,47,78,89])
+#print(numbers)
+#numbers[1] = 45
+#print(numbers)
+#numbers[1:4]=[45,46,47]
+#print(numbers)
+#numbers.remove(0)
+#print(numbers)
+print(numbers.pop(1))
+print(numbers)

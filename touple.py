@@ -1,0 +1,23 @@
+tuple=(10,12,4,"Navin",True,12,5)
+print(tuple)
+print(tuple[1])
+print(tuple[-4])
+print(type(tuple))
+tuple2=(45,)
+print(type(tuple2))
+#touple[2]=2 it is not supported in touple but in lists it supported
+print(tuple[1:])
+print(tuple[1:4])
+print(tuple[::2])
+print(len(tuple))
+touple1=(tuple,tuple2)
+print(touple1)
+print(len(touple1))
+tuple1=tuple+tuple2
+print(len(touple1))
+tuple4=(29,33,4,5,66,78,90)
+print(min(tuple4))
+print(max(tuple4))
+print(tuple.count(12))
+list1=[1,2,34,9]
+print(tuple(list1))

@@ -1,0 +1,6 @@
+print("hello....")
+print("It is declare like this")
+print("(What to print)")
+print("print('hello')")
+print('print("hello")')
+print("print('hello')")
